@@ -2,6 +2,10 @@
 	path = CalculPolynomial_Front_Mobile
 	url = https://github.com/NOUTAILAA/CalculPolynomial_Front_Mobile.git
 	branch = main
+[submodule "CalculPolynomial_Front_Web"]
+    path = CalculPolynomial_Front_Web
+    url = https://github.com/NOUTAILAA/CalculPolynomial_Front_Web.git
+    branch = versionfinale
 [submodule "MicroServiceStockage_CalculAutomatiseRacinePolynome"]
 	path = MicroServiceStockage_CalculAutomatiseRacinePolynome
 	url = https://github.com/NOUTAILAA/MicroServiceStockage_CalculAutomatiseRacinePolynome.git
