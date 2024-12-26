@@ -15,7 +15,7 @@
 	url = https://github.com/NOUTAILAA/MicroServiceTraitement-Calcul-Automatis-Racine-Poylynomes.git
 	branch = main_test
 [submodule "MicroServiceTraitement2-Calcul-Automatis-Racine-Poylynomes-"]
-	path = MicroServiceTraitement2-Calcul-Automatis-Racine-Poylynomes
+	path = MicroServiceTraitement2-Calcul-Automatis-Racine-Poylynomes-
 	url = https://github.com/NOUTAILAA/MicroServiceTraitement2-Calcul-Automatis-Racine-Poylynomes-.git
 	branch = main_test
 [submodule "MicroServiceTraitement3-Calcul-Automatis-Racine-Poylynomes"]
