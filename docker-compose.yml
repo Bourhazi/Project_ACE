@@ -58,7 +58,7 @@ services:
     image: microservicepython2-traitement
     container_name: python2
     build:
-      context: ./MicroServiceTraitement2-Calcul-Automatis-Racine-Poylynomes-
+      context: ./MicroServiceTraitement2-Calcul-Automatis-Racine-Poylynomes
       dockerfile: Dockerfile
     ports:
       - "5001:5001"
